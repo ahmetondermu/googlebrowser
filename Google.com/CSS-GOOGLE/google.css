@@ -1,0 +1,33 @@
+p {
+    color: blue;
+    text-align: center;
+    margin-bottom: 3px;
+}
+div {
+    margin-top: 50px;
+   text-align: center;
+}
+input {
+    margin-top: -10px;
+}
+table {
+    text-align: center;
+    margin-top: 3px;
+}
+.content {
+    float: left;
+}
+.gradient {
+    background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+}
+.btn {
+    padding-top: 8px;
+    padding-bottom: 6px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 2px 2px 3px 4px rgba(0,0,3,.3);
+}
+input {
+    margin-bottom: -2px;
+}
